@@ -54,6 +54,20 @@ body {
     border-bottom: 1px dotted #ccc;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    margin: 5px;
+    padding-left: 20px;
+    background: url(../imagens/seta.png) no-repeat left center;
+    text-decoration: none;
+    color: white;
+}
+
 #rodape {
     clear: both;
     text-align: center;
